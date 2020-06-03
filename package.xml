@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>my_teb_local_planner</name>
+  <version>0.2.4</version>
+  <description>The my_teb_local_planner package</description>
+
+  <maintainer email="ismaelaitd@gmail.com">Ismael Ait</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>stage_ros</run_depend>
+  <run_depend>teb_local_planner</run_depend>
+  <run_depend>move_base</run_depend>
+  <run_depend>map_server</run_depend>
+  <run_depend>amcl</run_depend>
+
+  <export>
+  </export>
+
+</package>
